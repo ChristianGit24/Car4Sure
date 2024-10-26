@@ -1,0 +1,48 @@
+html,
+#app {
+  height: 100%;
+}
+
+body {
+  /*margin: 0;*/
+  height: 100%;
+  width: 100%;
+}
+
+.p-datatable-tbody .p-checkbox-box.p-highlight,
+.p-datatable-thead .p-checkbox-box.p-highlight {
+  border-color: rgb(249, 115, 22) !important; 
+  background-color: rgb(249, 115, 22) !important; 
+}
+
+.p-datatable-tbody .p-checkbox-icon, .p-datatable-thead .p-checkbox-icon {
+  color: white !important;
+}
+
+.p-datatable-tbody .p-checkbox-box, .p-datatable-thead .p-checkbox-box {
+  border: 1px solid #000000 !important;
+}
+
+/* ConfirmDialog Styling */
+.custom-accept-button {
+  background-color: #ff0000; 
+  color: #ffffff;
+  margin-left: 10px;
+  border-radius: 6px;
+  padding: 0.75rem 1.5rem;
+}
+
+.custom-accept-button:hover {
+  background-color: #dd0f0f;
+}
+
+.custom-reject-button {
+  background-color: #e5e7eb;
+  color: #374151;
+  border-radius: 6px;
+  padding: 0.75rem 1.5rem;
+}
+
+.custom-reject-button:hover {
+  background-color: #d1d5db;
+}
