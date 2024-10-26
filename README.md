@@ -1,27 +1,29 @@
 Car4Sure
 
 Car4Sure is a Laravel and Vue.js-based web application designed to manage and track vehicle insurance policies. This project provides a backend API built with Laravel and a frontend interface using Vue.js.
-Table of Contents
+## Table of Contents
 
-    Prerequisites
-    Installation
-    Database Setup
-    Running the Application
-    Additional Information
-    Troubleshooting
-    License
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Database Setup](#database-setup)
+- [Running the Application](#running-the-application)
+- [Additional Information](#additional-information)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
-Prerequisites
+---
+
+## Prerequisites
 
 Before setting up the project locally, ensure you have the following installed on your system:
 
-    Composer (for Laravel dependencies): Get Composer
-    Laravel (latest version recommended): Get Laravel
-    Node.js and npm (for Vue.js dependencies): Get Node.js and npm
-    PrimeVue (for Vue UI components)
-    MariaDB (for database setup): Get MariaDB
+- **Composer** (for Laravel dependencies): [Get Composer](https://getcomposer.org/)
+- **Laravel** (latest version recommended): [Get Laravel](https://laravel.com/docs/installation)
+- **Node.js and npm** (for Vue.js dependencies): [Get Node.js and npm](https://nodejs.org/)
+- **PrimeVue** (for Vue UI components)
+- **MariaDB** (for database setup): [Get MariaDB](https://mariadb.org/download/)
 
-    Note: This project also uses Tailwind CSS and DaisyUI for styling.
+> **Note**: This project also uses **Tailwind CSS** and **DaisyUI** for styling.
 
 Installation
 
